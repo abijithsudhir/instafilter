@@ -1,8 +1,8 @@
 from PIL import Image
 
 #load images to objecta
-base_img = Image.open("pic4.jpg")
-img_filter = Image.open("pic2.jpg")
+base_img = Image.open("pic1.jpg")
+img_filter = Image.open("pic3.jpg")
 # set output image size
 size = (360,260)
 # resize all images
